@@ -19,10 +19,12 @@ This is a dockerized project.
 * Install Docker software and open it.
 * Open the project with an ide like PyCharm, VsCode etc.
 
-* Open terminal and type;
+* Open terminal type these commands and press enter;
+```
+cd Payment
+```
 ```
 docker-compose up
 ```
-and press enter.
 
 This is all. Thank you.
