@@ -28,3 +28,5 @@ docker-compose up
 ```
 
 This is all. Thank you.
+
+You can use 'Tringle.postman_collection.json' file to test apis in Postman.
